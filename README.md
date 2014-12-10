@@ -14,6 +14,13 @@ More info from Redmine [here](http://www.redmine.org/projects/redmine/wiki/Plugi
 
 You should now be able to see the plugin list in Administration -> Plugins.
 
+## How to use this plugin
+
+1. Login to Redmine using an administrator account.
+2. Go to the settings page of a project.
+3. Choose the "Versions" tab.
+4. Edit a particular version.
+5. Use the checkbox "Hidden" to show or hide that version.
 
 ## Uninstalling this plugin from Redmine
 
